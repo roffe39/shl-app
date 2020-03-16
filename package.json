@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/preset-react": "^7.8.3",
+    "apollo-server-express": "^2.11.0",
+    "axios": "^0.19.2",
+    "babel-loader": "^8.0.6",
+    "babel-node": "0.0.1-security",
+    "bearer": "0.0.20",
+    "btoa": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql-yoga": "^1.18.3",
+    "node-cache": "^5.1.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "qs": "^6.9.1"
+  }
+}
