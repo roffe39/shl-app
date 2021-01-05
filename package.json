@@ -9,7 +9,7 @@
     "@babel/preset-env": "^7.8.6",
     "@babel/preset-react": "^7.8.3",
     "apollo-server-express": "^2.11.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "babel-node": "0.0.1-security",
     "bearer": "0.0.20",
