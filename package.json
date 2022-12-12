@@ -15,7 +15,7 @@
     "bearer": "0.0.20",
     "btoa": "^1.2.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql-yoga": "^1.18.3",
     "node-cache": "^5.1.0",
     "node-fetch": "^2.6.0",
